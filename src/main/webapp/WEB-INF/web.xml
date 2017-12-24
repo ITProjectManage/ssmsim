@@ -5,6 +5,10 @@
          version="3.1">
 
     <display-name>ssmsim</display-name>
+    <context-param>
+        <param-name/>
+        <param-value/>
+    </context-param>
     <description>ssmsim_SnapShot_0.0.1</description>
 
     <!--&lt;!&ndash; 1.针对Spring配置：读取配置文件 &ndash;&gt;-->
